@@ -1,0 +1,94 @@
+    1  code .
+    2  git branch
+    3  git branch -r
+    4  git clone https://github.com/Umuzi-org/Lukhanyiso-Jibilise-223-person-javascript.git
+    5  git clone https://github.com/Umuzi-org/Lukhanyiso-Jibilise-223-person-javascript.git
+    6  git clone https://github.com/Umuzi-org/Lukhanyiso-Jibilise-223-person-javascript.git
+    7  cd person.js
+    8  ls
+    9  cd person
+   10  ls
+   11  code Lukhanyiso-Jibilise-223-person-javascript/
+   12  git config --list
+   13  git config --global user.name "Lukhanyiso Jibilise"
+   14  git config --global user.email "ayandadama12@gmail.com"
+   15  code Lukhanyiso-Jibilise-223-person-javascript/
+   16  git config --list
+   17  clear
+   18  cd ..
+   19  ls
+   20  rm -rf person
+   21  git clone https://github.com/Umuzi-org/Lukhanyiso-Jibilise-223-person-javascript.git
+   22  git clone https://github.com/theZoid9/Person-app-quiz.git
+   23  ls 
+   24  cd Person-app-quiz
+   25  ls
+   26  git checkout -b Lukhanyiso 
+   27  clear
+   28  cd ..
+   29  git clone https://github.com/theZoid9/Person-app-quiz.git
+   30  ls 
+   31  git clone https://github.com/theZoid9/Person-app-quiz.git
+   32  mkdir git-basic-exercises
+   33  cd git-basic-exercises
+   34  rmdir git-basic-exercises 
+   35  cd git-basic-exercise
+   36  cd git-basic-exercises
+   37  mkdir git-basic-exersises
+   38  ls -a
+   39  rm -rf git-basic-exercises
+   40  pwd
+   41  ls
+   42  cd git-basic-exersises
+   43  git init
+   44  ls -a
+   45  clear
+   46  git status
+   47  touch README.md
+   48  ls
+   49  git status
+   50  git log
+   51  git add README.md
+   52  git reset README.md
+   53  git status
+   54  git add README.md
+   55  git commit -m "initial commit"
+   56  git log
+   57  q
+   58  git log
+   59  clear
+   60  nano README.md
+   61  cat README.md
+   62  git status
+   63  git add README.md
+   64  git commit -m "second commit"
+   65  nano README.md
+   66  git add README.md
+   67  git -m "third commit"
+   68  git log
+   69  git commit -m "third commit"
+   70  git log
+   71  q
+   72  git checkou 85de3624ccde2f989c72505394f4cc9666cf7a1f
+   73   
+   74  git checkout 85de3624ccde2f989c72505394f4cc9666cf7a1f
+   75  cat README.md
+   76  git checkout master
+   77  cat README.md
+   78  git branch
+   79  git branch milkshake-flavours
+   80  git branch
+   81  git checkout milkshake-flavours
+   82  git banch
+   83  git branch
+   84  nano milkshakes.md
+   85  git bash
+   86  git status 
+   87  git add milkshakes.md
+   88  git commit -m "added initial flavours"
+   89  git log
+   90  git checkout main
+   91  git checkout master
+   92  git branch history
+   93  git checkout history
+   94  history > history.txt
