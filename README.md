@@ -1,5 +1,5 @@
 learning version control.
 this is another commit.
-making cchanges.
+making changes.
 booya
 
